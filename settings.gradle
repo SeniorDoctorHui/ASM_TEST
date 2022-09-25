@@ -1,0 +1,4 @@
+
+rootProject.name = "HUIGE_ASM_Test"
+include ':app'
+
